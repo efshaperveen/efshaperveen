@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense Tracker Website](https://github.com/efshaperveen/Expense-Tracker-Website)
 
-- My Portfolio [https://efshaperveen.github.io/Portfolio/](https://efshaperveen.github.io/Portfolio/)
+- My Portfolio [https://efsha.netlify.app](https://efsha.netlify.app)
 
 - 📫 How to reach me **efshaperveen10@gmail.com**
 
