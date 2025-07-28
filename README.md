@@ -9,7 +9,7 @@
 - 🌱 Learning: **[Technology/Tool]**
 - 👯 Looking to collaborate on: **Open Source / Freelance Projects**
 - 💬 Ask me about: **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: **[efshaperveen10@gmail.com]**
+
 
 
 ---
