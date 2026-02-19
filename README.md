@@ -101,7 +101,8 @@
 
 <p align="center">
   <a href="https://github.com/efshaperveen">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=efshaperveen&show_icons=true&theme=tokyonight" />
+     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
   </a>
   <a href="https://linkedin.com/in/efsha-perveen-124718282">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
