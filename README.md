@@ -72,8 +72,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
 
 ---
 
